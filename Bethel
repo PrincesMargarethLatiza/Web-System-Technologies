@@ -8,7 +8,7 @@
 <body>
     <header>
        <nav>
-        <a href=""><img src=""></a>
+        <a href=""><img src="" alt="picture"></a>
 
         <section>
             <a href="">MyBethel</a>
@@ -215,27 +215,13 @@
             
             <p><a href=""><img src=""> Maps & Directions</a></p>  
             <p>651.638.6400</p> 
-            <button>
-                <a href=""><img src="">facebook</a>
-            </button>
-             <button>
-                <a href=""><img src="">X</a>
-            </button>
-             <button>
-                <a href=""><img src="">instagram</a>
-            </button>
-             <button>
-                <a href=""><img src="">LinkedIn</a>
-            </button>
-             <button>
-                <a href=""><img src="">youtube</a>
-            </button>
-             <button>
-                <a href=""><img src="">vimeo</a>
-            </button>
-             <button>
-                <a href=""><img src="">tiktok</a>
-            </button>
+            <a href=""><button><img src="">facebook</button></a>
+            <a href=""><button><img src="">X</button></a>
+            <a href=""><button><img src="">instagram</button></a>
+            <a href=""><button><img src="">LinkedIn</button></a>
+            <a href=""><button><img src="">youtube</button></a>
+            <a href=""><button><img src="">video</button></a>
+            <a href=""><button><img src="">tiktok</button></a>
 
         </section>
         <p><b>Information For</b></p>
@@ -260,9 +246,9 @@
             <li><a href="">Questions & Comments</a></li>
             <li><a href="">Title IX Concerns</a></li>
             <li><a href="">Course Catalogs</a></li>
-            <button>
-                <a href="">Support Bethel</a>
-            </button>
+            <a href=""><button>
+                Support Bethel
+            </button></a>
         </ul>
          <section>
             
@@ -275,6 +261,9 @@
               admissions, educational programs, or employment practices.</p>
         </section>
     </footer>
+    
+</body>
+</html>
     
 </body>
 </html>
