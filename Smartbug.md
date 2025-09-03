@@ -23,15 +23,26 @@
         </nav>
     </header>
 
+    
+
     <main>
         <section>
+           <article>
             <img src="" alt="picture">
             <h1>Website Redesign: The Anatomy of a Great Homepage</h1>
             <p>February 6, 2020</p>
-            
+            <hr>
+           </article>
         </section>
-
+    <side>
+            <a href=""><button><img src="" alt="logo">FB</button></a>
+            <a href=""><button><img src="" alt="logo">In</button></a>
+            <a href=""><button><img src="" alt="logo">X</button></a>
+            <a href=""><button><img src="" alt="logo">P</button></a>
+            <a href=""><button><img src="" alt="logo">Email</button></a>
+        </side>
         <section>
+            <article>
             <p>By <a href="">Amanda Singleton</a></p>
             <p>In your home, chances are there are several points people could enter your house from—front doors,<br>
              back doors, garage doors, windows, and so on—however, your guests probably enter your home from<br>
@@ -47,7 +58,7 @@
             <p>In this blog post, we'll dive a little deeper on how (and why) to keep your homepage updated and <br>
             optimized.</p>
 
-            <h1>The Purpose of Optimizing Your<br> Homepage</h1>
+            <header><h1>The Purpose of Optimizing Your<br> Homepage</h1></header>
             <p>Overall, the purpose of your website is to market your products or services and turn website visitors into<br>
                 leads and, eventually, customers—and your homepage is no different. It should be easy to navigate, easy <br>
                 to understand, and offers your personas information on what they are searching for.</p>
@@ -59,8 +70,8 @@
             <a href="">Find out how to develop a quality, lead-generating website,Download:The Keys to Website UX<br>
             and Usability</a>
 
-            <h1>Before Your Start Designing,<br>
-                 Remember...</h1>
+            <header><h1>Before Your Start Designing,<br>
+                 Remember...</h1></header>
             
                  <p>Clearly define goals and strategies for what you want your homepage to accomplish for your company<br>
                      first. These goals could include defining what your website is about and what you want the action step to<br>
@@ -80,7 +91,7 @@
                     correlates with our previous point of strategy: Have a plan to move users down the funnel, starting with<br>
                     your homepage.</p>
 
-                <h1>Homepage Best Practices</h1>
+                <header><h1>Homepage Best Practices</h1></header>
 
                 <ol>
                     <li><b>State Your Value Proposition</b></li>
@@ -127,6 +138,7 @@
                          scrolling without constantly adjusting your screen.</p>
 
                 </ol>
+            </article>
         </section>
     </main>
 
@@ -140,11 +152,13 @@
             <a href=""><button><img src="">Instagram</button></a>
             <a href=""><button><img src="">Facebook</button></a>
             <a href=""><button><img src="">Pinterest</button></a>
+        <article>
             <p>© 2025 SmartBug Media, Inc., a full-<br>
                 service digital agency.</p>
             <a href="">Privacy.</a>
             <a href="">Terms</a>
             <a href="">HIPAA</a>
+            </article>
         </section>
         <section>
             <p><b>HubSpot Services</b></p>
@@ -170,7 +184,8 @@
                 <li><a href="">Web Apps</a></li>
                 <li><a href="">Integrations & Migrations</a></li>
             </ul>
-        </section>
+       </section>
+        
         <section>
             <p><b>Solutions</b></p>
             <ul>
@@ -180,7 +195,7 @@
                 <li><a href="">Revenue Operations</a></li>
                 <li><a href="">Customer Success</a></li>
             </ul>
-        </section>
+       </section>
         <section>
             <p><b>Work & Awards</b></p>
             <ul>
@@ -191,7 +206,7 @@
                 <li><a href="">Press</a></li>
             </ul>
         </section>
-         <section>
+        <section>
             <p><b>About</b></p>
             <ul>
                 <li><a href="">Our Story</a></li>
@@ -215,7 +230,7 @@
                 <li><a href="">Hubspot</a></li>
             </ul>
         </section>
-        <section>
+       <section>
             <p><b>Industries</b></p>
             <ul>
                 <li><a href="">Healthcare</a></li>
@@ -227,7 +242,7 @@
                 <li><a href="">Education</a></li>
             </ul>
         </section>
-         <section>
+        <section>
             <p><b>Resources</b></p>
             <ul>
                 <li><a href="">Articles</a></li>
@@ -238,6 +253,7 @@
                 <li><a href="">Bootcamps</a></li>
                 <li><a href="www.fb.com">Assessments</a></li>
             </ul>
+        
         </section>
     </footer>
 </body>
