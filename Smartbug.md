@@ -17,15 +17,15 @@
             <a href="">Work & Awards</a>
             <a href="">About</a>
             <a href="">Resources</a>
-            <button>
-                <a href="">Let's Talk</a>
-            </button>
+            <a href=""><button>
+                Let's Talk
+            </button></a>
         </nav>
     </header>
 
     <main>
         <section>
-            <img src="">
+            <img src="" alt="picture">
             <h1>Website Redesign: The Anatomy of a Great Homepage</h1>
             <p>February 6, 2020</p>
             
@@ -134,24 +134,12 @@
         <section>
             <a href=""><img src="">Logo</a>
             <a href=""><img src="">SmartBug.</a>
-            <button>
-                <a href="">Boost Revenue</a>
-            </button>
-            <button>
-                <img src="">LinkIn
-            </button>
-            <button>
-                <img src="">Youtube
-            </button>
-            <button>
-                <img src="">Instagram
-            </button>
-            <button>
-                <img src="">Facebook
-            </button>
-            <button>
-                <img src="">Pinterest
-            </button>
+            <a href=""><button>Boost Revenue</button></a>
+            <a href=""><button><img src="">LinkIn</button></a>
+            <a href=""><button><img src="">Youtube</button></a>
+            <a href=""><button><img src="">Instagram</button></a>
+            <a href=""><button><img src="">Facebook</button></a>
+            <a href=""><button><img src="">Pinterest</button></a>
             <p>© 2025 SmartBug Media, Inc., a full-<br>
                 service digital agency.</p>
             <a href="">Privacy.</a>
@@ -248,7 +236,7 @@
                 <li><a href="">Webinars</a></li>
                 <li><a href="">Podcast</a></li>
                 <li><a href="">Bootcamps</a></li>
-                <li><a href="">Assessments</a></li>
+                <li><a href="www.fb.com">Assessments</a></li>
             </ul>
         </section>
     </footer>
