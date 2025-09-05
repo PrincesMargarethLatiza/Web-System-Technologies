@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        HaloLab
+    </title>
+</head>
+<body>
+    <header >
+        <section>
+            <hr>
+            <a href=""><img src="" alt="logo"></a>
+        </section>
+        <section>
+           <ul>
+            <li >Services</li>
+            <ul label="Design">
+                <li><a href="">UX/UI design</a></li>
+                <li><a href="">Product audit</a></li>
+                <li><a href="">Branding</a></li>
+                <li><a href="">Rebranding</a></li>
+                <li><a href="">Web design</a></li>
+                <li><a href="">Landing page design</a></li>
+                <li><a href="">Mobile app design</a></li>
+                <li><a href="">Pitch deck design</a></li>
+            </ul>
+            <li><a href="">Projects</a></li>
+            <li><a href="">Dedicated Team</a></li>
+            <li><a href="">Resources</a></li>
+            <ul>
+                <li>our blog</li>
+                <li>open source</li>
+            </ul>
+            <li><a href="">Pricing</a></li>
+           </ul>
+        </section>
+        <section>
+            <a href=""><button>Contact us</button></a>
+            <hr>
+        </section>
+    </header>
+
+    <main>
+        <section>
+            <a href="">ALL BLOG POSTS &sol;</a>
+            <a href="">DESIGN</a><br><br>
+            <h1>19 vital parts for your website<br>
+                page to maximize user<br>
+                engagement</h1>
+           
+            <p><img src="" alt="logo"> 10 JAN</p> <p><img src="" alt="logo">SCROLL</p>
+             <hr>
+        </section>
+        <section>
+            <p>SHARE</p>
+            <a href=""><button><img src="" alt="linked in"></button></a>
+            <a href=""><button><img src="" alt="fb"></button></a>
+            <a href=""><button><img src="" alt="x"></button></a>
+            <a href=""><button><img src="" alt="copy"></button></a>
+        </section>
+        <article>
+            <p><b>Chances are, there’s been a time when you’ve clicked<br>
+             through endless links, scrolling page after page in a<br>
+             seemingly futile quest for the right information. This journey<br>
+             often ended with you exiting the website as empty-handed<br>
+             as when you started, right? To avoid falling into this trap,<br>
+             knowing the essential digital elements can completely<br>
+             transform your project’s digital presence.</b></p>
+        </article>
+        <section>
+            <a href=""><button><img src="" alt="photo"> Valentine Boyev<br>
+            CEO at Halo Lab</button></a>
+            <hr>
+        </section>
+        <article>
+            <p>Web design and page structure play a big role in encouraging users to click and<br>
+             scroll. But what if there was a blueprint to ensure that every single one of your web<br>
+             pages is visitor-friendly? Well, you’re in the right place, as today we’ll break down<br>
+             19 essential elements of a successful website and share insider tips on how to<br>
+             use them properly.</p>
+             <h1><b>Why do you need to think about page structure</b></h1>
+             <p>Let’s start by defining what a webpage is, as it is not the same as a website.<br>
+             Simply put, it’s an individual page with specific URLs, different content, and<br>
+             unique images, where every element plays a crucial role in engaging the visitor.<br>
+             When talking about its structure, we’re addressing how all these pieces fit<br>
+             together to make something that’s good to look at and makes sense to use.<br><br>
+        
+            The organized webpage is the foundation of your online presence. It’s what<br>
+            guides your visitors through the content, like invisible signposts pointing to where<br>
+            they want to go. Without a well-thought-out structure, even the most visually<br>
+            stunning page can leave users lost and confused, resulting in a higher bounce<br>
+            rate and lower engagement.<br><br>
+            </p>
+            <h3>A well-structured page leads users smoothly from beginning<br>
+                to end.</h3>
+            <h1><b>19 crucial elements of a web page</b></h1>
+            <p>When it comes to designing a webpage, it’s all about picking the right elements.<br>
+             Interactive pop-ups, hidden buttons, flashy CTAs — these choices determine<br>
+             whether a user clicks, keeps browsing, or leaves. But there is much more to<br>
+             uncover, and in the following paragraphs, we’ll briefly review 19 must-have<br>
+             components that make a webpage both functional and attractive.</p>
+            
+            <h1><b>1. Header</b></h1>
+            <p>First up is the header or a site menu. Sitting right at the top, it is the primary thing<br>
+             anyone sees, no matter which page they land on. This element is strategically<br>
+             important, allowing users to jump from one page to the next without hindrance. It<br>
+             often includes a logo, main navigation, and sometimes a contact button or social<br>
+             media links. </p>
+             <h3><b>The header is your first chance to make an impression, so<br>
+             you’ve got to make it count.</b></h3>
+
+             <p>Your header is a site guide that ensures visitors know exactly where they are and<br>
+             how to find what they’re looking for. But here’s the thing — while it might be<br>
+             tempting to pack the header with as much information as possible, it’s crucial not<br>
+             to overload it. This approach helps in finding the perfect balance between<br>
+             providing essential information and maintaining simplicity.</p>
+        </article>
+        <section>
+            <article>
+            <img src="" alt="picture">
+            <p>A visible and informative header presents a site’s content</p>
+            </article>
+        </section>
+        <section>
+            <article>
+            <a href="">Uncover the secrets of impactful header design through<br>
+                 our best practices guide in the Website Header Inspiration<br>
+                 article.</a>
+            </article>
+        </section>
+        <article>
+            <h1><b>2. CTA button</b></h1>
+            <p>Next on the list is the Call to Action (CTA) buttons that guide your visitors on what<br>
+             to do next, whether it’s “Buy Now,” “Learn More,” or “Sign Up.” Their main aim is to<br>
+             turn a passive user into an active one while improving conversions for a particular<br>
+             page.<br><br>
+             
+             However, it’s not just about slapping a button anywhere. A good CTA subtly stands<br>
+             out and doesn’t scream for attention — it’s clear, compelling, and inviting.<br>
+             Placement is key, too. Put it in a spot where it’s easy for visitors to find, and check<br>
+             out whether it makes sense in the context of your page.<br><br>
+
+             Remember, the CTA button is your chance to convert a casual visitor into a<br>
+             customer or subscriber. Though a small element, it packs a powerful punch. Think<br>
+             of it as the finishing touch that brings the whole page together and sets the stage<br>
+             for your user’s next step.<br></p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>A clear CTA button leads users to the next step</p>
+        </section>
+
+        <article>
+            <h1><b>3. Hero section</b></h1>
+            <p>Moving on, let’s talk about the hero section. Typically found below the header, this<br>
+             element is your chance to make an impactful statement. That section usually<br>
+             combines an eye-catching image or video with a powerful message and is often<br>
+             complemented by a CTA button. Its purpose is to grab attention, deliver a key<br>
+             message, and set the tone for the rest of the site.</p>
+             <h3><b>Whether you’re showcasing a product, highlighting a service,<br>
+             or setting the mood, your hero section should be visually<br>
+             striking and emotionally resonant.</b></h3>
+             <p>This component needs to connect with your visitors immediately, telling them<br>
+             what your site is about and what they can expect from it. It’s a balancing act — you<br>
+             want to be bold, captivating, clear and concise. When done right, the hero section<br>
+             can make the user experience better, drawing people in and motivating them to<br>
+             explore further.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>A hero section captivates at first glance</p>
+        </section>
+        <article>
+            <h1><b>4. Footer</b></h1>
+            <p>Scrolling down to the bottom of the page, you’ll find the footer. Of course, it might<br>
+             not be the first thing visitors see, but it plays a crucial role in wrapping up their<br>
+             experience on your site.<br><br>
+            
+             This section often contains important links, contact information, social media<br>
+             icons, and sometimes a brief about the company or a sign-up form for<br>
+             newsletters. It’s a place where visitors can find various resources and information<br>
+             that didn’t quite fit in the main navigation in header or elsewhere on the page.<br><br>
+
+             This is the last impression you leave on your visitors, so make it a good one,<br>
+              reflecting the professionalism and comprehensiveness of your site.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Structured info in a footer does not overload the user</p>
+        </section>
+        <section>
+            <a href=""><b>To enhance your understanding, explore the examples for<br>
+                 using footers in our feature article on Website Footer<br>
+                 Design.</b></a>
+        </section>
+        <article>
+            <h1><b>5. Slider</b></h1>
+            <p>Up next is the slider. This element uses the technique of a slideshow or carousel<br>
+             and is the dynamic storyteller of your webpage that rotates a series of images,<br>
+             text, or videos across the screen. It showcases multiple pieces of content and<br>
+             thus saves space on your layout.<br><br>
+
+            Whether it’s the latest offers, featured products, or key messages, the slider lets<br>
+             you present content in an engaging, easily digestible format. As a result, your<br>
+             visitors feel excited after an interactive experience while the metrics of their time<br>
+             spent on the site grow.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Compactly presented media via slider saves space on a page</p>
+        </section>
+        <article>
+            <h1><b>6. Search</b></h1>
+            <p>Another useful component is a search function tucked away in the header or an<br>
+             easily accessible place. With this element, visitors have a quick way to find what<br>
+             they’re looking for. It simplifies browsing content within a website and displays<br>
+             relevant information based on the search query.<br><br>
+
+            Whether your site is packed with loads of media or a wide range of products, a<br>
+             search field helps cut through the clutter. This is a handy tool for e-commerce<br>
+             sites or content-heavy platforms where navigating through pages and categories<br>
+             can get overwhelming.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>A search field greatly improves website navigation</p>
+        </section>
+        <section>
+            <article>
+            <a href=""><b>To explore the best ways to shape a search results page,<br>
+                 be sure to read our Search Results Page Design article.</b></a>
+            </article>
+        </section>
+        <article>
+            <h1><b>7. Menu and navigation</b></h1>
+            <p>When we think about easy navigation across a webpage, the menu is the main<br>
+             element that comes to mind. This component guides visitors through the site to<br>
+             help them understand what you offer at a glance and how to get there.<br><br>
+
+
+             There are various menu types to choose from, each serving different design<br>
+             needs and user experiences. The classic horizontal menu runs across the top of<br>
+             your page, offering straightforward access to major sections. Then, there’s the<br>
+             sidebar menu, tucked to the side, perfect for sites with extensive navigation.<br>
+             Dropdown menus reveal additional options under each main category, while drop-<br>
+             up menus work similarly but open upwards.<br><br>
+
+             For sites with a wide range of topics or products, the mega menu provides a<br>
+             comprehensive view of all options in one large panel. And let’s not forget the<br>
+             hamburger menu, a space-saving icon that expands to reveal navigation links.<br>
+             Each type has its advantages, and the choice largely depends on the layout and<br>
+             content of your webpage.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>An interactive menu visually attracts the user</p>
+        </section>
+        <article>
+            <h1><b>8. Breadcrumbs</b></h1>
+            <p>Next in line is breadcrumbs. No, we’re not talking about the kind you find in the<br>
+             kitchen, but the digital steps that help guide visitors through your website. It is<br>
+             important to note that they don’t replace the primary menu we discussed earlier<br>
+             but instead present a second level of navigation and streamline the platform’s<br>
+             usability.</p>
+             <h3><b>The success is in the details, and nowhere is this truer than in<br>
+                 the world of web design.</b></h3>
+            <p>Typically appearing at the top of a page, this navigational feature shows users<br>
+             their current location on your site and how they got there. It leaves behind a digital<br>
+             footprint to help users backtrack or navigate to other sections without having to<br>
+             hit the “back” button multiple times.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Breadcrumbs are a visual guide for users</p>
+        </section>
+        <article>
+            <h1><b>9. Forms</b></h1>
+            <p>Whether it’s for signing up for a newsletter, making a purchase, or getting in<br>
+             touch, forms are the go-to method for visitors to interact and communicate with<br>
+             your site. They are essential to gather information, simplify transactions, or get<br>
+             feedback. This element encourages users to send information to the system or<br>
+             server while allowing you to build up a customer base.<br><br>
+
+             It should ask for only the necessary information, making the process quick and<br>
+             hassle-free. Think about the forms you’ve enjoyed filling out — they probably had<br>
+             clear labels, were easy to navigate, and didn’t ask for your life story. That’s what<br>
+             you must aim for. Place forms in an accessible way, making them intuitive, with a<br>
+             clear call to action, like “Submit,” “Send,” or “Sign Up.”</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>A form improves interactions between your website and its users </p>
+        </section>
+        <article>
+            <h1><b>10. Cards</b></h1>
+            <p>Move on to the next element — cards. Each section typically contains an image or<br>
+             icon, a brief description, and perhaps a call to action, all enclosed in a small,<br>
+             defined area. From products and blog posts to user profiles and more, cards<br>
+             organize a chunk of content types in a compact, visually appealing package. The<br>
+             beauty of using these components lies in their simplicity and clarity. They allow<br>
+             users to quickly scan for information, making the browsing experience more<br>
+             efficient and enjoyable.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>A card system visually improves the content structure </p>
+        </section>
+        <section>
+            <a href=""><b>Gain insights into card-based style by investigating cases<br>
+             and tips showcased in the Card UI Design article.</b></a>
+        </section>
+        <article>
+            <h1><b>11. Videos</b></h1>
+            <p>Media materials are a big deal. When was the last time you scrolled past a video<br>
+             without at least a curious glance? They draw us in, keep us hooked, and<br>
+             sometimes, before we know it, we’ve learned something new or found a product<br>
+             we can’t live without.<br><br>
+
+            So, why not harness the power of video on your website? Use it to show off your<br>
+             products, give a sneak peek into your services, or share some client testimonials.<br>
+             But while videos are great, they’ve got to be good. No one wants to sit through a<br>
+             grainy, hard-to-hear, or boring video. Your visitors are there for a reason, and<br>
+             videos should reflect that.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Videos make users stay on a website longer</p>
+        </section>
+        <article>
+            <h1><b>12. Progress indicator</b></h1>
+            <p>Have you ever filled out a form or completed a task online and wondered, “How<br>
+             much longer is this going to take?” That’s where a progress indicator comes in<br>
+             handy. This small but helpful element gives users a visual cue of where they are in<br>
+             the process and how much is left. It is especially useful for multi-step processes<br>
+             like online shopping checkouts, surveys, or registration forms.<br><br>
+
+
+             Think of it as the digital equivalent of breadcrumbs leading to the finish line. It can<br>
+             be as simple as a series of dots, a numbered list, or a bar that fills up as you move<br>
+             forward. Whatever style you choose, make sure it’s clear and consistent.<br><br>
+
+
+             But why stop at just being functional? Get creative with it! Use colors, animations,<br>
+             or even fun little messages that pop up as the user progresses. This makes the<br>
+             experience more engaging and can also reflect your brand’s personality.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Progress indicator let users know at what stage they are now</p>
+        </section>
+        <article>
+            <h1><b>13. Favicon</b></h1>
+            <p>There is another small yet mighty tool — favicon. That is a tiny icon in your browser<br>
+             tab next to a website’s name. It might seem insignificant, but it’s actually a little<br>
+             powerhouse in the world of web design that allows users to get a quick visual<br>
+             connection with your brand while they are browsing.<br><br>
+
+
+             A favicon is your website’s mini calling card that makes a big impression. When a<br>
+             user has dozens of tabs open (and let’s be honest, who doesn’t?), your favicon is<br>
+             what helps your website stand out in that crowded sea. It’s a subtle and effective<br>
+             way to keep your brand visible and recognizable.<br><br>
+
+             Creating a favicon is not just about shrinking your logo into a tiny square. It needs<br>
+             to be clear, identifiable, and reflective of your brand’s identity. The best favicons<br>
+             are simple, bold, and use limited color palettes. Remember, it must be<br>
+             recognizable even at a glance and on a small scale.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>A memorable favicon improves brand awareness</p>
+        </section>
+        <article>
+            <h1><b>14. Tags</b></h1>
+            <p>Another versatile element on your webpage is tags. They’re like those sticky notes<br>
+             you put on documents to remind you what’s what. On a website, they help<br>
+             categorize content, making it a breeze for users to find what they’re interested in.<br>
+             Say you’re running a blog. In that case, tags help your visitors quickly click through<br>
+             to related topics they’re curious about.<br><br>
+
+
+             They’re also a big win for SEO. Search engines love well-organized content, and<br>
+             tags are a straightforward way to keep things neat and tidy. Plus, they give users a<br>
+             peek into what your content is all about. But here’s the key — don’t go overboard.<br>
+             Have you ever felt overwhelmed by a bunch of random sticky notes slapped<br>
+             everywhere? It’s the same with tags. Keep them relevant, specific, and to the<br>
+             point.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Strategically placed tags enhance website usability</p>
+        </section>
+        <article>
+            <h1><b>15. Links</b></h1>
+            <p>Links are your way of guiding visitors around your site and even beyond it.<br>
+             Whether it’s internal URLs that keep customers exploring your site or external<br>
+             ones that offer additional information, each is a helpful signpost. The main idea is<br>
+             to make it clear and purposeful.<br><br>
+
+            You probably clicked on a link, thinking it would take you somewhere, and ended<br>
+             up in a completely unexpected place. Frustrating, right? That’s why your links<br>
+             should always be descriptive and give a good idea of where they lead. And let’s<br>
+             not forget about making them stand out. They have to be visible but not so flashy<br>
+             that they disrupt the flow of your content.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Easy-to-spot links are more likely to be clicked on</p>
+        </section>
+        <article>
+            <h1><b>16. Quality images</b></h1>
+            <p>Let’s shine a spotlight on quality images. They speak volumes without saying a<br>
+             word, set the tone, evoke emotions, and connect with your audience on a deeper<br>
+             level. Such an essential element can showcase your products, share moments,<br>
+             and tell the brand’s story.<br><br>
+
+            Check whether each image is in line with your identity, as the wrong visuals can<br>
+             lead to confusion among users. Additionally, be mindful of image size and loading<br>
+             speed. Nobody would care for even the most beautiful picture if it takes forever to<br>
+             load, and keeping the balance in that case is key.</p>
+        </article>
+        <section>
+            <article>
+            <a href=""><b>Explore the art of image optimization and get the Image<br>
+                 Resizing Halo Lab plugin in the article How to Optimize<br>
+                 Images.</b></a>
+            </article>
+        </section>
+        <article>
+            <p>And remember, diversity and authenticity in your imagery can make your website<br>
+             feel more inclusive and relatable. It’s about showing real people, real emotions,<br>
+             and real scenarios. Stock photos can be handy, but they must be chosen carefully<br>
+             to avoid that staged, generic look.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Quality images should tie in with your brand message </p>
+        </section>
+        <article>
+            <h1><b>17. Typography</b></h1>
+            <p>We’re close to the finish line, and the next element is typography. First up, font<br>
+             choice. This can be a fun playground but also a tricky field. Whenever you are<br>
+             sleek and modern or quirky and whimsical, select the best font that reflects your<br>
+             brand’s personality. Moreover, avoid using too many different ones. Stick to a few<br>
+             that complement each other and keep it consistent across your website.<br><br>
+
+            Then there’s readability. Think about font size, color contrast, and spacing to make<br>
+             text readable. Also, consider the mood your typography sets, as different fonts<br>
+             evoke different feelings. A serif font might feel traditional and trustworthy, while<br>
+             a sans-serif could be seen as clean and modern.</p>
+        </article>
+        <section>
+            <article>
+            <a href=""><b>If you want to learn more about fonts, read our article “24<br>
+                 serif font examples to improve your branding and website<br>
+                 design in 2024.”</b></a>
+            </article>
+        </section>
+        <article>
+            <p>And let’s not forget about special fonts for headings and accents — they’re like the<br>
+             highlighters of your text, drawing attention to key areas.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Typography should be readable regardless of the background </p>
+        </section>
+        <article>
+            <h1><b>18. White space</b></h1>
+            <p>Time to talk about white space, often the invisible element of great web design.<br>
+             And while it might seem like “empty” space, it’s anything but. It gives users a<br>
+             break, helps them process information, and guides them from one element to<br>
+             another.<br><br>
+
+             It doesn’t necessarily have to be white, by the way. It’s all about the unmarked<br>
+             space, regardless of color or background. This is the area between graphics,<br>
+             margins, gutters, fields between columns, and even the place between lines of<br>
+             text.<br><br>
+
+            And balance is critical. Too little white space can turn your site into a cramped<br>
+             one, but too much might make it seem empty or unfinished. Try to find that sweet<br>
+             spot where design elements and white space complement one another<br>
+            harmoniously.</p>
+        </article>
+        <section>
+            <img src="" alt="picture">
+            <p>Strategically used white space complements a site’s aesthetic</p>
+        </section>
+        <article>
+            <h1><b>19. Sidebar</b></h1>
+            <p>Finally, a sidebar is a trusty sidekick to your website’s main content with extra<br>
+             information or functionality. It can house anything from navigation menus, social<br>
+             media links, and author bios to call-to-action buttons like share, search bars, and<br>
+             upcoming events. Typically, it sticks to the left or right side of a web page and<br>
+             presents a vertical list of options.</p>
+            </article>
+            <section>
+                <article>
+                <h3><b>A well-crafted sidebar is like a helpful guide, always offering something more.</b></h3>
+                </article>
+            </section>
+            <article>
+                <p>A well-designed sidebar should be a natural extension of a website tailored to fit<br>
+                 the content of your page. For example, a search bar might be included within a<br>
+                 blog post, recent posts, or tags. On a product page, it may show related items or<br>
+                 customer reviews. The key is relevance. Your sidebar should always offer<br>
+                 something valuable and pertinent to the visitor’s current interest.</p>
+            </article>
+            <section>
+                <img src="" alt="picture">
+                <p>A sidebar provides users with additional navigation</p>
+            </section>
+            <article>
+                <h1><b>Final point</b></h1>
+                <p>And there we have it — a comprehensive journey through the essential elements<br>
+                 of a webpage, from top to bottom. We’ve explored how each component,<br>
+                 including favicons, breadcrumbs, videos, cards, and many more, shapes an<br>
+                 identity for a cohesive and user-friendly website. And most importantly, how to<br>
+                 implement them correctly.<br><br>
+                
+                So, as you begin your web design journey, keep these elements in mind. Use<br>
+                them wisely, blend them creatively, and watch your website transform into a<br>
+                vibrant, living entity that connects with your audience and stands out in the digital<br>
+                 world. If you’d like to leave this responsibility entirely to a design team, Halo Lab is<br>
+                 happy to help. For more detailed information, <a href="">contact us</a> at any time!</p>
+            </article>
+            <section>
+                <p>Writing team:</p>
+                <img src="" alt="picture">
+                <p>Dmytro<br>
+                Editor</p>
+
+                <img src="" alt="picture">
+                <p>Iryna<br>
+                Technical writer</p>
+            </section>
+    </main>
+    <footer>
+        <section>
+            <h1><b>Subscribe to our newsletter to<br>
+                 stay in touch with the latest.</b></h1>
+
+            <input type="text" label="Your email address"> <button><img src="" alt="logo">email</button>
+            <p>FOLLOW US HERE:</p>
+            <a href="" target="_blank"><button><img src="" alt="dribble"></button></a>
+            <a href="" target="_blank"><button><img src="" alt="instagram"></button></a>
+            <a href="" target="_blank"><button><img src="" alt="behance"></button></a>
+            <a href="" target="_blank"><button><img src="" alt="webflow"></button></a>
+            <a href="" target="_blank"><button><img src="" alt="linkedin"></button></a>
+            <a href="" target="_blank"><button><img src="" alt="discord"></button></a>
+        </section>
+        <section>
+          <a href="">Our Services  +</a> 
+          <a href="">Projects</a>
+          <a href="">Dedicated team</a>
+          <a href="">Open Source</a>
+          <a href="">Referral Program</a>
+          <a href="">Contacts</a>
+          <a href="">Blog</a>
+        </section>
+        <section>
+            <h3>DROP US A LINE</h3>
+            <a href="">inquiry@halo-lab.com</a>
+            <h3>CALL US</h3>
+            <a href=""><img src="" alt="logo">+1(213)337-8573</a>
+        </section>
+        <section>
+            <a href="" target="_blank"><button><img src="" alt="logo">clutch</button></a>
+            <a href="" target="_blank"><button><img src="" alt="logo">goodfirms</button></a>
+            <a href="" target="_blank"><button><img src="" alt="logo">designrush</button></a>
+            <a href="" target="_blank"><button><img src="" alt="logo">dribble</button></a>
+            <a href="" target="_blank"><button><img src="" alt="logo">webflow</button></a>
+            <a href="" target="_blank"><button><img src="" alt="logo">prismic</button></a>
+            <a href="" target="_blank"><button><img src="" alt="logo">sanity</button></a>
+        </section>
+        <section>
+            <hr>
+            <ul>
+                <li>Show all services</li>
+                <ul>
+                    <p>DESIGN</p>
+                    <li><a href="" target="_blank">Web Design</a></li>
+                    <li><a href="" target="_blank">Landing Website Design</a></li>
+                    <li><a href="" target="_blank">Rebranding</a></li>
+                    <li><a href="" target="_blank">UI/UX Design</a></li>
+                    <li><a href="" target="_blank">Saas Website Design</a></li>
+                    <li><a href="" target="_blank">Social Media Design</a></li>
+                    <li><a href="" target="_blank">Responsive Web Design</a></li>
+                    <li><a href="" target="_blank">Brandning for Startups</a></li>
+                    <li><a href="" target="_blank">Pitch Deck Design</a></li>
+                    <li><a href="" target="_blank">Mobile App Design</a></li>
+                    <li><a href="" target="_blank">Website redesign</a></li>
+                    <p>DEVELOPMENT</p>
+                    <li><a href="" target="_blank">Software Product Development</a></li>
+                    <li><a href="" target="_blank">Web application development</a></li>
+                    <li><a href="" target="_blank">Web portal development</a></li>
+                    <li><a href="" target="_blank">Web Development</a></li>
+                    <li><a href="" target="_blank">Mobile app development</a></li>
+                    <li><a href="" target="_blank">CMS Development</a></li>
+                    <li><a href="" target="_blank">Back-end development</a></li>
+                    <li><a href="" target="_blank">MVP development</a></li>
+                    <li><a href="" target="_blank">Front-end Development</a></li>
+                    <hr>
+                </ul>
+                <hr>
+                <li>Show all technologies</li>
+                <ul>
+                    <p>BACK- END/FRONT-END</p>
+                    <li><a href="" target="_blank">Node JS</a></li>
+                    <li><a href="" target="_blank">Gatsby</a></li>
+                    <li><a href="" target="_blank">React JS</a></li>
+                    <li><a href="" target="_blank">Next JS</a></li>
+                    <li><a href="" target="_blank">Vue JS</a></li>
+                    <p>CMS</p>
+                    <li><a href="" target="_blank">Prismic</a></li>
+                    <li><a href="" target="_blank">Sanity</a></li>
+                    <li><a href="" target="_blank">Webflow</a></li>
+                    <p>CLOUD</p>
+                    <li><a href="" target="_blank">AWS</a></li>
+                    <li><a href="" target="_blank">Microsoft Azure</a></li>
+                    <p>MOBILE DEVELOPMENT</p>
+                    <li><a href="" target="_blank">React Native</a></li>
+                    <li><a href="" target="_blank">Flutter</a></li>
+                    <hr>
+                </ul>
+                <li>Show all industries</li>
+                <ul>
+                    <p>HEALTHCARE</p>
+                    <li><a href="" target="_blank">Healthcare software development</a></li>
+                    <li><a href="" target="_blank">Medical apps for patients</a></li>
+                    <li><a href="" target="_blank">Healthcare IT consulting</a></li>
+                    <li><a href="" target="_blank">Healthcare software testing</a></li>
+                    <li><a href="" target="_blank">Healthcare app development</a></li>
+                    <li><a href="" target="_blank">Telemedicine app development</a></li>
+                    <li><a href="" target="_blank">Healthcare UI/UX design</a></li>
+                    <li><a href="" target="_blank">Healthcare website design</a></li>
+                    <p>EDUCATION</p>
+                    <li><a href="" target="_blank">Education software development</a></li>
+                    <li><a href="" target="_blank">E-learning software development</a></li>
+                    <li><a href="" target="_blank">Education app development</a></li>
+                    <li><a href="" target="_blank">Education portals development</a></li>
+                    <li><a href="" target="_blank">LMS development services</a></li>
+                    <li><a href="" target="_blank">School management software</a></li>
+                    <li><a href="" target="_blank">E-learning application development</a></li>
+                    <p>FINANCE</p>
+                    <li><a href="" target="_blank">Financial software development</a></li>
+                    <li><a href="" target="_blank">Payment app development</a></li>
+                    <li><a href="" target="_blank">Web design for financial services</a></li>
+                    <li><a href="" target="_blank">Payment integration services</a></li>
+                    <li><a href="" target="_blank">Financial mobile app development</a></li>
+                    <li><a href="" target="_blank">Banking apps development</a></li>
+                    <p>TRANSPORTATION AND LOGISTICS</p>
+                    <li><a href="" target="_blank">Transportation software development</a></li>
+                    <li><a href="" target="_blank">Supply chain software development</a></li>
+                    <li><a href="" target="_blank">Logistics app development</a></li>
+                    <li><a href="" target="_blank">Logistics web design</a></li>
+                    <li><a href="" target="_blank">Transportation management software</a></li>
+                    <p>MACHINE LEARNING & AI</p>
+                    <li><a href="" target="_blank">AI consulting services</a></li>
+                    <li><a href="" target="_blank">ChatGPT integration</a></li>
+                    <li><a href="" target="_blank">AI development services</a></li>
+                    <li><a href="" target="_blank">AI integration services</a></li>
+                    <li><a href="" target="_blank">AI chatbot development</a></li>
+                    <hr>
+                </ul>
+            </ul>
+            <p>© Halo Lab. All rights reserved</p>
+            <a href="">Manage cookies</a>
+            <a href="">Terms and Conditions</a>
+            <a href="">Privacy Policy</a>
+        </section>
+    </footer>
+    
+</body>
+</html>
